@@ -1,8 +1,12 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: AI Prompts for Business Immigration
+description: A library of AI Prompts for Business Immigration
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://immigration-prompts.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  "Submit a Prompt (Coming Soon)": https://github.com/immigration-prompts/immigration-prompts.github.io/issues
+
+# aux_links:
+#   "Submit via Google Form": https://forms.google.com/yourlink
+#   "Submit via GitHub": https://github.com/immigration-prompts/immigration-prompts.github.io/issues/new/choose
