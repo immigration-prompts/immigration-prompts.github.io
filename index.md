@@ -61,7 +61,7 @@ Citation: John Walasik, "AI Prompts for Business Immigration," (2026) https://im
 
 ----
 
-Built using the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) Jekyll template. Hosted on Github pages.  
+Built using the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) Jekyll template. Hosted on Github Pages.  
 [Just the Docs](https://just-the-docs.github.io/just-the-docs/)  
 [GitHub Pages](https://docs.github.com/en/pages)  
 [Jekyll](https://jekyllrb.com)  
