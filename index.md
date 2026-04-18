@@ -25,12 +25,12 @@ Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 
 ## Browse by Area
 
-[EB-1 (also useful for O-1)]  
+[EB-1 (also useful for O-1)]({{ site.baseurl }}/prompts/EB-1/)  
 [NIW]  
 [Drafting]  
 [General AI prompting]  
 
-<!--
+<!-- This was written by Claude, with little idea about what I wanted to do
 - [Family-Based Immigration]({{ site.baseurl }}/prompts/family-based/)
 - [Employment-Based Immigration]({{ site.baseurl }}/prompts/employment-based/)
 - [Removal Defense]({{ site.baseurl }}/prompts/removal-defense/)
