@@ -1,5 +1,5 @@
 ---
-title: drafting
+title: Drafting
 layout: default
 nav_order: 40
 has_children: true
