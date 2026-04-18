@@ -23,8 +23,8 @@ footer_content: "Immigration Prompts is a library of AI Prompts for Business Imm
   Contributions are welcome.
   Content is not legal advice.
   Always verify AI output independently. AI is trained to project overconfidence and enthusiasm; 
-  it sounds equally confident when it is right, when it is guessing, and when it is [completely wrong](https://claude.ai/share/8306c526-f0d0-495b-9258-1b5cd554b5fa)."
-
+  it sounds equally confident when it is right, when it is guessing, and when it is 
+  <a href='https://claude.ai/share/8306c526-f0d0-495b-9258-1b5cd554b5fa'>completely wrong.</a>"
 # Google Analytics (GA4)
 # Replace G-XXXXXXXXXX with your Measurement ID from Step 1
 ga_tracking: G-26T1G3LQL7
