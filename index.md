@@ -57,6 +57,8 @@ review before use. Always request AI to provide sources as links and check them 
 Hallucination risk is significant, particularly for case citations and regulatory
 details. See additional notes in the footer, below.
 
+---  
+
 Citation: John Walasik, "AI Prompts for Business Immigration," (2026) https://immigration-prompts.github.io/  
 
 ----
