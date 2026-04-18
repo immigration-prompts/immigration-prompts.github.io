@@ -25,10 +25,10 @@ Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 
 ## Browse by Area
 
-[EB-1A (also useful for O-1)]({{ site.baseurl }}/prompts/EB-1A/)  
-[NIW]({{ site.baseurl }}/prompts/NIW/)
-[O-1A]({{ site.baseurl }}/prompts/O-1A/)
-[Drafting]({{ site.baseurl }}/prompts/drafting/)  
+[EB-1A]({{ site.baseurl }}/prompts/EB-1A/)  
+[NIW]({{ site.baseurl }}/prompts/NIW/)  
+[O-1A]({{ site.baseurl }}/prompts/O-1A/)  
+[Drafting]({{ site.baseurl }}/prompts/drafting/)    
 [General AI prompting]({{ site.baseurl }}/prompts/general/)  
 
 <!-- This was written by Claude, with little idea about what I wanted to do
