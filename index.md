@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Immigration Prompts
+# AI Prompts for Business Immigration 
 
 A library of AI prompts for business immigration.
 
