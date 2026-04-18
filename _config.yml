@@ -4,9 +4,43 @@ theme: just-the-docs
 
 url: https://immigration-prompts.github.io
 
+# Search
+search_enabled: true
+
+# Aux links — nav bar buttons
+# Contribution links will be added in Phase 2
+# For now, a placeholder directing visitors to check back
 aux_links:
-  "Submit a Prompt (Coming Soon)": https://github.com/immigration-prompts/immigration-prompts.github.io/issues
+  "Contribute a Prompt (Coming Soon)": https://github.com/immigration-prompts/immigration-prompts.github.io/issues
+aux_links_new_tab: true
 
 # aux_links:
 #   "Submit via Google Form": https://forms.google.com/yourlink
 #   "Submit via GitHub": https://github.com/immigration-prompts/immigration-prompts.github.io/issues/new/choose
+
+# Footer
+footer_content: "Immigration Prompts is a library of AI Prompts for Business Immigration.
+  Contributions are welcome.
+  Content is not legal advice.
+  Always verify AI output independently. AI is trained to project overconfidence and enthusiasm; 
+  it sounds equally confident when it is right and when it is guessing."
+
+# Google Analytics (GA4)
+# Replace G-XXXXXXXXXX with your Measurement ID from Step 1
+ga_tracking: G-26T1G3LQL7
+ga_tracking_anonymize_ip: true
+
+# Color scheme: "light" (default) or "dark"
+color_scheme: light
+
+# Back to top button
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Last edit timestamp on pages
+last_edit_timestamp: true
+last_edit_time_format: "%B %e %Y"
+
+# Heading anchor links
+heading_anchors: true
+
