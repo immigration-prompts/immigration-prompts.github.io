@@ -45,7 +45,7 @@ Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 
 ## How to Contribute
 
-Contribution details coming soon. In the meantime, if you have a useful prompt to share,
+Contribution details (Google Form; GitHub Issue) coming soon. In the meantime, if you have a useful prompt to share,
 contact [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/).
 
 ---
