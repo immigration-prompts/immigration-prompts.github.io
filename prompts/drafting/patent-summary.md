@@ -6,7 +6,7 @@ nav_order: 90
 model_tested: claude
 contributor: "John Walasik"
 date_added: 2026-04-18
-tags: [Patents, biographical]
+tags: [Patents,]
 ---
 
 # Instructions (prompt) for AI – Patent Summary
