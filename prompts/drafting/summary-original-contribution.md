@@ -1,7 +1,7 @@
 ---
 title: "Summary of Original Contribution"
 layout: default
-parent: drafting
+parent: Drafting
 nav_order: 20
 model_tested: claude
 contributor: "John Walasik"
