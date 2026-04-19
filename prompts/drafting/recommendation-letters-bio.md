@@ -1,7 +1,7 @@
 ---
 title: "Biographical Section for Recommendation Letters"
 layout: default
-parent: drafting
+parent: Drafting
 nav_order: 10
 model_tested: claude
 contributor: "John Walasik"
