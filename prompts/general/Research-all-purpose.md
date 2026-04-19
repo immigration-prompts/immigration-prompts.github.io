@@ -1,7 +1,7 @@
 ---
 title: "Research and all-purpose prompts"
 layout: default
-parent: General
+parent: General AI Prompts
 nav_order: 20
 model_tested: claude
 contributor: "John Walasik"
