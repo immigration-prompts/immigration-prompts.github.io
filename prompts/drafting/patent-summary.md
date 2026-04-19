@@ -1,7 +1,7 @@
 ---
 title: "Patent Summary"
 layout: default
-parent: drafting
+parent: Drafting
 nav_order: 90
 model_tested: claude
 contributor: "John Walasik"
