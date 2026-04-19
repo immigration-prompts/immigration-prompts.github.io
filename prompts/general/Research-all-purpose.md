@@ -9,7 +9,7 @@ date_added: 2026-04-18
 tags: [general, context limit, research]
 ---
 
-
+# Research and all-purpose prompts
 
 Please track both context limit and session limit and let me know when we’ve reached 40%, 60%, and 80% of each. 
 
