@@ -1,6 +1,7 @@
+---
 title: "Coding Projects"
 layout: default
-parent: General
+parent: General AI Prompts
 nav_order: 40
 model_tested: claude
 contributor: "John Walasik"
