@@ -11,7 +11,7 @@ tags: [projects, scope, planning, enthusiasm, accuracy]
 
 # Project planning, scoping, and doc creation
 
-## Notes: How to deal with enthusiasm over accuracy in planning? Sonnet, April, 2026: “Scope this project" is a task where my limitations compound quickly because errors in early assumptions propagate through everything downstream.” Problem: “Trusting my confidence level as a signal of accuracy (high confidence this is unreliable). I sound equally confident when I'm right and when I'm guessing. The prose doesn't betray the difference.”
+Notes: How to deal with enthusiasm over accuracy in planning? Sonnet, April, 2026: “Scope this project" is a task where my limitations compound quickly because errors in early assumptions propagate through everything downstream.” Problem: “Trusting my confidence level as a signal of accuracy (high confidence this is unreliable). I sound equally confident when I'm right and when I'm guessing. The prose doesn't betray the difference.”
 
 ## The Prompts
 
