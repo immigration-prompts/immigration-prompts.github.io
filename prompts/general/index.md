@@ -1,5 +1,5 @@
 ---
-title: General AI Prompts
+title: General AI Prompts (research, project scoping, and coding)
 layout: default
 nav_order: 50
 has_children: true
