@@ -13,7 +13,7 @@ tags: [general, context limit, research]
 
 Please track context limit and let me know when we’ve reached 40%, 60%, and 80%. 
 
-Make suggestions to me before implementing them. Do not create files or other actions without my okay.
+Make suggestions and propose actions before implementing them. Do not create files or other actions without my okay.
 
 When doing research, double-check all facts and present the sources to me. Don’t assume any fact is accurate from a single, and sometimes multiple sources.
 
