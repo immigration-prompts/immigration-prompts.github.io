@@ -6,7 +6,7 @@ nav_order: 10
 model_tested: claude
 contributor: "John Walasik"
 date_added: 2026-04-18
-tags: [EB-1A. extraordinary ability]
+tags: [EB-1A, extraordinary ability]
 ---
 
 # Instructions (prompt) for AI – EB-1A
