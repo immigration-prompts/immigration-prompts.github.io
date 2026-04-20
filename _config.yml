@@ -37,7 +37,8 @@ color_scheme: light
 back_to_top: true
 back_to_top_text: "Back to top"
 
-# Last edit timestamp on pages
+# Last edit timestamp on pages. To implement this include this key/field in the front matter of each page "last_modified_date: YYYY-MM-DD." 
+# It has to me added and updated manually each time the page is updated. 
 # reference for liquid dates: https://www.twilio.com/docs/studio/user-guide/liquid-template-language#formatting-dates
 last_edit_timestamp: true
 last_edit_time_format: "%B %e %Y"
