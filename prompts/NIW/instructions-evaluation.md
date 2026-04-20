@@ -10,12 +10,12 @@ tags: [NIW, proposed endeavor. substantial merit, national importance]
 ---
 
 # Instructions (prompt) for AI – NIW
-- Briefly look over the beneficiary's information and prepare a document with possible emphases (the beneficiary's superpowers), and possible approaches for the proposed endeavor. A recomended title for this document is: “Background and possible approaches.” Include any additional questions for AI (e.g., explain these technical terms on the resume/profile, or in articles, in the context of the beneficiary's work.)  
+Briefly look over the beneficiary's information and prepare a document with possible emphases (the beneficiary's superpowers), and possible approaches for the proposed endeavor. A recomended title for this document is: “Background and possible approaches.” Include any additional questions for AI (e.g., explain these technical terms on the resume/profile, or in articles, in the context of the beneficiary's work.)  
 <br>
-- Note: it is helpful to give AI *some* direction regarding emphasis and proposed endeavor. Otherwise, since AI is biased toward accepting written material as truth, and jargon over clear exposition, it will likely parrot the beneficiary's profile or resume. And since these materials are directed toward employment, not USCIS' requirements, you're likely to get a summary of what the beneficiary thinks will impress potential employers (e.g., "thought leadership in strategic frameworks"), and not what is helpful for USCIS. Guide AI by spending a few minutes thinking about the intersection between the beneficiary's superpowers, potential endeavor, and USCIS regulations, while being mindful of impact (national importance), merit, and supporting documentation (well positioned). See the USCIS Policy Manual link below for discussions of each of these ideas.  
+Note: it is helpful to give AI *some* direction regarding emphasis and proposed endeavor. Otherwise, since AI is biased toward accepting written material as truth, and jargon over clear exposition, it will likely parrot the beneficiary's profile or resume. And since these materials are directed toward employment, not USCIS' requirements, you're likely to get a summary of what the beneficiary thinks will impress potential employers (e.g., "thought leadership in strategic frameworks"), and not what is helpful for USCIS. Guide AI by spending a few minutes thinking about the intersection between the beneficiary's superpowers, potential endeavor, and USCIS regulations, while being mindful of impact (national importance), merit, and supporting documentation (well positioned). See the USCIS Policy Manual link below for discussions of each of these ideas.  
 <br>
 <br>
-- Copy/paste the prompt below into your AI input, along with relevant documents regarding the beneficiary, including the one described above. 
+Copy/paste the prompt below into your AI input, along with relevant documents regarding the beneficiary, including the one described above. 
 
 
 ## The AI prompt
