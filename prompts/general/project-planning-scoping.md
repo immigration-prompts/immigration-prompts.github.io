@@ -1,7 +1,7 @@
 ---
 title: "Project planning, scoping, and doc creation"
 layout: default
-parent: General AI Prompts
+parent: General AI Prompts (research, project scoping, and coding)
 nav_order: 40
 model_tested: claude
 contributor: "John Walasik"
