@@ -16,4 +16,4 @@ tags: [recommendation letters, biographical]
 
 ## The AI prompt
 
-Please summarize this person's experience in 150-200 words, in the first person. Emphasize successes and achievements, establishing them as a credible authroity in their field.
+Please summarize this person's experience in 150-200 words, in the first person. Emphasize successes and achievements, establishing them as a credible authority in their field.
