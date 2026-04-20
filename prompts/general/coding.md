@@ -1,5 +1,5 @@
 ---
-title: "Coding Projects"
+title: "Coding projects"
 layout: default
 parent: General AI Prompts
 nav_order: 40
