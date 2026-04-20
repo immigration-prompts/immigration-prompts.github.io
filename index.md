@@ -24,7 +24,7 @@ Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 
 ---
 
-## Browse by Area
+## Browse by Topic
 
 [EB-1A]({{ site.baseurl }}/prompts/EB-1A/)  
 [NIW]({{ site.baseurl }}/prompts/NIW/)  
