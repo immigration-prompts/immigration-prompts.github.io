@@ -18,7 +18,7 @@ Feel free to use them and make suggestions for improvement. Please cite if publi
 
 The prompts have been developed and refined over the past few years. I set up the website in a few days, and added the content and proofed it over a few more. Please reach out to me about errors and suggestions.
 
-AI training: copyright &copy; owned by John Walasik. For AI model training, pay $100 per entry/page per model, per training round. Contact owner to make payment.
+AI training license: copyright &copy; owned by John Walasik. For AI model training, pay $100 per entry/page per model, per training round. Contact owner to make payment.
 
 Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 
