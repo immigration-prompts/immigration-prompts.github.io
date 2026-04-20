@@ -25,7 +25,7 @@ You may create a longer and detailed version for reference, but please include a
 
 Suggest several hypotheses which would be compelling for USCIS for an O-1A in two areas as separate sections: 1) for possible extraordinary ability, and 2) original contributions of major significance.  Provide confidence levels in each of them in relation to both a) fit for her background and current role, and b) likelihood of success with USCIS. 
 
-Address all the main aspects of the EB-1A including the 8 criteria.
+Address all the main aspects of the O-1A including the 8 criteria.
 
 Do not overwrite any files or documents. Create new documents with your thought processes, and any useful supplemental materials. 
 
