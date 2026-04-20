@@ -12,8 +12,7 @@ A library of AI prompts for business immigration.
 
 ## What Is This?
 
-AI tools like Claude, ChatGPT, and others can assist with research, drafting, and
-preparation. This library collects some prompts that can save time, crafted to overcome AI's limitations. Most have been used with Claude models, but Gemini, ChatGPT, CoPilot, and Duck.AI have also been used. 
+AI tools like Claude, ChatGPT, and others can assist with research, drafting, and preparation for meetings and casework. This library collects some prompts that can save time, crafted to get the best out of AI – exploiting its strengths and mitigating limitations. Most prompts have been used with Anthropic/Claude models, but Gemini, ChatGPT, CoPilot, and Duck.AI have also been used. 
 
 Feel free to use them and make suggestions for improvement. Please cite if publishing (citation format below).
 
@@ -29,7 +28,7 @@ Created by [John Walasik](https://www.linkedin.com/in/john-walasik-264583172/)
 [NIW]({{ site.baseurl }}/prompts/NIW/)  
 [O-1A]({{ site.baseurl }}/prompts/O-1A/)  
 [Drafting]({{ site.baseurl }}/prompts/drafting/)    
-[General AI prompting]({{ site.baseurl }}/prompts/general/)  
+[General AI prompting (research, project planning, and coding)]({{ site.baseurl }}/prompts/general/)  
 
 <!-- This was written by Claude, with little idea about what I wanted to do
 - [Family-Based Immigration]({{ site.baseurl }}/prompts/family-based/)
